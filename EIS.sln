@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIS", "EIS\EIS.csproj", "{215CBDBC-E39C-444B-860D-1E5AC91B6864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215CBDBC-E39C-444B-860D-1E5AC91B6864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215CBDBC-E39C-444B-860D-1E5AC91B6864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215CBDBC-E39C-444B-860D-1E5AC91B6864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215CBDBC-E39C-444B-860D-1E5AC91B6864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6676802E-1FD7-436F-B82C-8B6245ABD9BD}
+	EndGlobalSection
+EndGlobal
